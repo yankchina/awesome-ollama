@@ -14,6 +14,8 @@ A curated list of awesome resources, libraries, tools, and more related to [Olla
     - [Articles](#articles)
     - [Websites](#websites)
   - [Tools](#tools)
+    - [Mac](#mac)
+    - [VisualCode Extensions](#visualcode-extensions)
   - [Libraries](#libraries)
   - [Frameworks](#frameworks)
   - [Community](#community)
@@ -59,7 +61,14 @@ For those new to Ollama, we recommend the following resources to get started:
 
 A collection of tools that can help you work with Ollama more effectively:
 
+
+### Mac
+
 - [SwiftUI For Ollama](https://github.com/kghandour/Ollama-SwiftUI) User Interface made for Ollama.ai using Swift
+
+### VisualCode Extensions
+
+- [Ollama Modelfile](https://marketplace.visualstudio.com/items?itemName=technovangelist.ollamamodelfile) Language extension for Ollama Modelfiles
 
 ## Libraries
 
