@@ -25,7 +25,7 @@ A curated list of awesome resources, libraries, tools, and more related to [Olla
 
 ## Introduction
 
-[Ollama](link-to-ollama) is fascinating for many reasons. Here, we aim to compile a list of the most remarkable, insightful, and helpful Ollama-related content. Whether you're a complete beginner or an experienced enthusiast, there's something here for everyone.
+[Ollama]([link-to-ollama](https://ollama.com/)) is fascinating for many reasons. Here, we aim to compile a list of the most remarkable, insightful, and helpful Ollama-related content. Whether you're a complete beginner or an experienced enthusiast, there's something here for everyone.
 
 ## Getting Started
 
@@ -59,9 +59,7 @@ For those new to Ollama, we recommend the following resources to get started:
 
 A collection of tools that can help you work with Ollama more effectively:
 
-- [OllamaTool1](link)
-- [OllamaTool2](link)
-- [OllamaAnalyzer](link)
+- [SwiftUI For Ollama](https://github.com/kghandour/Ollama-SwiftUI) User Interface made for Ollama.ai using Swift
 
 ## Libraries
 
