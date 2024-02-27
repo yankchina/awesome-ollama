@@ -1,10 +1,11 @@
-# Awesome Ollama
+Awesome Ollama [![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
+===
 
-A curated list of awesome resources, libraries, tools, and more related to Ollama. This awesome list is part of the wider awesome project, a movement to collect and share high-quality, inspiring resources for various topics and interests. If you love Ollama as we do, here's a collection to help you get started, dive deeper, or find something new in the world of Ollama.
+A curated list of awesome resources, libraries, tools, and more related to [Ollama](https://ollama.com/). This awesome list is part of the wider awesome project, a movement to collect and share high-quality, inspiring resources for various topics and interests. If you love Ollama as we do, here's a collection to help you get started, dive deeper, or find something new in the world of Ollama.
 
 ## Contents
 
-- [Awesome Ollama](#awesome-ollama)
+- [Awesome Ollama ](#awesome-ollama-)
   - [Contents](#contents)
   - [Introduction](#introduction)
   - [Getting Started](#getting-started)
