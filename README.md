@@ -33,9 +33,8 @@ A curated list of awesome resources, libraries, tools, and more related to [Olla
 
 For those new to Ollama, we recommend the following resources to get started:
 
-- [Beginner’s Guide to Ollama](link)
-- [Ollama Basics](link)
-- [Introduction to Ollama](link)
+- [Ollama.ai: A Developer's Quick Start Guide](https://dev.to/jayantaadhikary/installing-llms-locally-using-ollama-beginners-guide-4gbi)
+- [Installing LLMs localling using Ollama - Beginner's guide](https://dev.to/jayantaadhikary/installing-llms-locally-using-ollama-beginners-guide-4gbi)
 
 ## Resources
 
@@ -53,8 +52,8 @@ For those new to Ollama, we recommend the following resources to get started:
 
 ### Websites
 
-- [Ollama Official Site](link)
-- [Ollama Hub](link)
+- [Ollama Official Site](https://ollama.com/)
+- [Ollama Official Blog](https://ollama.com/blog)
 - [Learn Ollama](link)
 
 ## Tools
