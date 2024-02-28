@@ -54,7 +54,6 @@ For those new to Ollama, we recommend the following resources to get started:
 
 - [Ollama Official Site](https://ollama.com/)
 - [Ollama Official Blog](https://ollama.com/blog)
-- [Learn Ollama](link)
 
 ## Tools
 
