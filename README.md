@@ -60,6 +60,11 @@ For those new to Ollama, we recommend the following resources to get started:
 
 A collection of tools that can help you work with Ollama more effectively:
 
+- [Prompter](https://github.com/whonixnetworks/prompter) - Multi-model comparison, benchmarking, and structured evaluation TUI for Ollama. Compare, Council, Tribunal, RALPH, and Benchmark modes.
+
+### Web
+
+- [Open webui](https://github.com/open-webui/open-webui) User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 
 ### Web
 
