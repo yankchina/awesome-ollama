@@ -14,6 +14,7 @@ A curated list of awesome resources, libraries, tools, and more related to [Olla
     - [Articles](#articles)
     - [Websites](#websites)
   - [Tools](#tools)
+    - [Web](#web)
     - [Mac](#mac)
     - [VisualCode Extensions](#visualcode-extensions)
   - [Libraries](#libraries)
@@ -58,6 +59,11 @@ For those new to Ollama, we recommend the following resources to get started:
 ## Tools
 
 A collection of tools that can help you work with Ollama more effectively:
+
+
+### Web
+
+- [Open webui](https://github.com/open-webui/open-webui) User-friendly WebUI for LLMs (Formerly Ollama WebUI)
 
 
 ### Mac
