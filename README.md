@@ -68,6 +68,7 @@ A collection of tools that can help you work with Ollama more effectively:
 
 ### Mac
 
+- [Remuda](https://github.com/magna-nz/remuda) Desktop app for testing and tuning local models, with a built-in Modelfile editor.
 - [SwiftUI For Ollama](https://github.com/kghandour/Ollama-SwiftUI) User Interface made for Ollama.ai using Swift
 
 ### VisualCode Extensions
